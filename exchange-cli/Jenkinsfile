@@ -23,6 +23,7 @@ stage ('Unit Tests') {
  sh "npm run test:unit"
  }
  }
+ }
 
  }
 }
